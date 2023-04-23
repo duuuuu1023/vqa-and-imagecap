@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   2.VQA data based on the COCO dataset 。This dataset contains only questions and answers.   
   3.COCO object detection dataset .  
   
+  The download link for the VQA-Caption dataset is: https://drive.google.com/drive/folders/1edgl4F7u04uvOFbhjSWL2VsghKwXYNG9?usp=share_link
   
   Data processing consists of the following steps:  
   1. Manually annotate 1,000 title and answer corresponding data. The titles and answers correspond as much as possible. If the 5 titles and question answers corresponding to the picture are not appropriate, you can customize the correct title.  processdata.py
